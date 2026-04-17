@@ -1,8 +1,6 @@
 Salary Prediction App
 
-Live Demo
-https://machine-learning-models-bkerekspzehdtj3bragr5v.streamlit.app/
-
+Live Demo: (https://salary-prediction-app-a8ba9eeaxx9uzikudmt9li.streamlit.app/)
 Description
 
 This project is a Machine Learning web application that predicts an employee's salary based on input features such as age, gender, education level, job title, and years of experience.
