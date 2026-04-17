@@ -1,6 +1,6 @@
 Salary Prediction App
 
-Live Demo:
+Live Demo
 https://machine-learning-models-bkerekspzehdtj3bragr5v.streamlit.app/
 
 Description
@@ -27,7 +27,7 @@ Python
 Pandas
 NumPy
 Scikit-learn
-Streamlit (for deployment)
+Streamlit
 Project Structure
 .
 ├── app.py
@@ -40,8 +40,8 @@ git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 Create a virtual environment (optional)
 python -m venv venv
-source venv/bin/activate        # Linux/Mac
-venv\Scripts\activate           # Windows
+source venv/bin/activate      # Linux/Mac
+venv\Scripts\activate         # Windows
 Install dependencies
 pip install -r requirements.txt
 Run the Application
